@@ -27,7 +27,7 @@ class _BMIState extends State<BMI> {
               children: [
 
                 Container(
-                    height: 100,
+                    height: 300,
                     width: 100,
                     color: Colors.black,
                     child: Column(
